@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Manifest version="22">
+  <CheckInterval>10</CheckInterval>
+  <Application>"Filmagem.exe"</Application> 
+  <RemoteConfigUri>http://update3.vistoriapro.com.br/express/Filmagem/update.xml</RemoteConfigUri>
+  <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
+  <BaseUri>https://github.com/EquipeVistoriaPro/AutoUpdateRelease/blob/master/</BaseUri>
+  <Payload>App.zip?raw=true</Payload>
+</Manifest>
