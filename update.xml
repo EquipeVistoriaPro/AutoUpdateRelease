@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Manifest version="22">
+<Manifest version="23">
   <CheckInterval>10</CheckInterval>
   <Application>"Filmagem.exe"</Application> 
   <RemoteConfigUri>https://raw.githubusercontent.com/EquipeVistoriaPro/AutoUpdateRelease/master/update.xml</RemoteConfigUri>
